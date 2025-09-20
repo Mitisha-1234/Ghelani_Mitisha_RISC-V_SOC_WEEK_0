@@ -73,6 +73,8 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 View simulation output graphically and cross-check signal transitions to ensure correct design behavior.
+![GTK Wave](https://github.com/user-attachments/assets/9ba75b3d-6cfc-41a9-9770-a3f6490c0734)
+
 
 
 
